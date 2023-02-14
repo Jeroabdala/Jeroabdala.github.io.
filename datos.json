@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "Tarta blanca de coco",
+    "tipo": "Postres",
+    "descripcion": "Una rica tarta de coco para acompañar cualquier hora del dia",
+    "imagen": "dsadsad.jpg",
+    "ingredientes": {
+      "crema de coco": {
+        "leche entera": "375g",
+        "crema de leche": "150g",
+        "almidon de maiz": "30g",
+        "azucar": "150g",
+        "huevos": "1",
+        "yemas": "2",
+        "coco rayado": "100g",
+        "esencia de vainilla": "5g"
+      },
+      "Masa Sablée": {
+        "manteca": "100g",
+        "azúcar": "75g",
+        "harina": "165g",
+        "yema": "1",
+        "sal fina": "1,5g"
+      },
+      "Crema chantilly": {
+        "crema de leche": "300g",
+        "azucar": "40g",
+        "esencia de vainilla": "4g"
+      }
+    }
+  },
+  {
+    "nombre": "Pastel con nutella",
+    "tipo": "Postres",
+    "descripcion": "Un Pastel pesado para servir el cafe al mediodia",
+    "imagen": "dsadsad.jpg",
+    "ingredientes": {
+      "crema de coco": {
+        "leche entera": "375g",
+        "crema de leche": "150g",
+        "almidon de maiz": "30g",
+        "azucar": "150g",
+        "huevos": "1",
+        "yemas": "2",
+        "coco rayado": "100g",
+        "esencia de vainilla": "5g"
+      },
+      "Masa Sablée": {
+        "manteca": "100g",
+        "azúcar": "75g",
+        "harina": "165g",
+        "yema": "1",
+        "sal fina": "1,5g"
+      },
+      "Crema chantilly": {
+        "crema de leche": "300g",
+        "azucar": "40g",
+        "esencia de vainilla": "4g"
+      }
+    }
+  },
+  {
+    "nombre": "Pastel con nutella y nueces",
+    "tipo": "Postres",
+    "descripcion": "Un pastel pesado acompañado con almendras y nueces",
+    "imagen": "dsadsad.jpg",
+    "ingredientes": {
+      "crema de coco": {
+        "leche entera": "375g",
+        "crema de leche": "150g",
+        "almidon de maiz": "30g",
+        "azucar": "150g",
+        "huevos": "1",
+        "yemas": "2",
+        "coco rayado": "100g",
+        "esencia de vainilla": "5g"
+      },
+      "Masa Sablée": {
+        "manteca": "100g",
+        "azúcar": "75g",
+        "harina": "165g",
+        "yema": "1",
+        "sal fina": "1,5g"
+      },
+      "Crema chantilly": {
+        "crema de leche": "300g",
+        "azucar": "40g",
+        "esencia de vainilla": "4g"
+      }
+    }
+  }
+]
